@@ -27,7 +27,7 @@ A iniciativa surgiu a partir de uma necessidade real dentro da empresa onde atuo
 1. Clone o repositório:
 
 ```bash
-   git clone https://github.com/seu-usuario/contador-de-datas.git
+   git clone https://github.com/eiphp-tech/Contador_de_data.git
 ```
 
 2. Acesse o diretório e abra o index.html diretamente no navegador:
