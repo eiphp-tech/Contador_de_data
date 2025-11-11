@@ -1,4 +1,4 @@
-# 📅 Contador de Datas
+# 📅 Contador de Dias
 
 Um projeto minimalista e funcional desenvolvido para calcular o número de dias entre duas datas. Ideal para aplicações que exigem controle de prazos, planejamento estratégico ou gestão de tarefas com datas definidas.
 
